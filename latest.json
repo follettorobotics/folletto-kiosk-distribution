@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "zipUrl": "https://github.com/follettorobotics/folletto-kiosk-distribution/releases/download/v0.0.1/KioskFolletto-0.0.1.zip",
+  "sha256": "e2c72fa4661ad80bef5f1f86a55fe2edddcab4f69063918b701f65f520afb979",
+  "releaseNotes": "Test release for the software update pipeline (feature/auto-update).",
+  "releasedAt": "2026-10-02T02:16:27Z"
+}
